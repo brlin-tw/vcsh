@@ -2,6 +2,8 @@ vcsh - Version Control System for $HOME - multiple Git repositories in $HOME
 
 [![Test Status](https://github.com/RichiH/vcsh/actions/workflows/test.yml/badge.svg)](https://github.com/RichiH/vcsh/actions/workflows/test.yml)
 
+test
+
 # Index
 
 1. [30 Second How-to](#30-second-how-to)
